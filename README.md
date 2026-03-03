@@ -119,3 +119,10 @@ beeek18_translate_bot/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+## 🐍 Требования
+
+- Python 3.13+
+- Docker & Docker Compose
+- uv (для локального запуска)
