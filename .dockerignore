@@ -7,7 +7,7 @@ __pycache__/
 .python-version
 README.md
 .gitignore
-.mypy_cache/
+.ty_cache/
 .ruff_cache/
 .vscode/
 uv.lock

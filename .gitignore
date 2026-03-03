@@ -9,5 +9,5 @@ wheels/
 .vscode/
 .env
 logs/
-.mypy_cache/
+.ty_cache/
 .ruff_cache/
