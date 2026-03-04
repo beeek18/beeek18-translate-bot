@@ -7,3 +7,9 @@ services:
       - .env
     volumes:
       - ./logs:/app/logs
+    networks:
+      - shared-streamlit-bot-network
+
+networks:
+  shared-streamlit-bot-network:
+    external: true
